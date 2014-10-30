@@ -28,8 +28,8 @@
 #include <boost/tokenizer.hpp>
 
 /* Constants. */
-#define WWW_HOST      "www.playxiangqi.com"
-#define WWW_PORT      80
+#define WWW_HOST      "192.168.1.102"
+#define WWW_PORT      3306
 
 /* -----------------------------------------------------------------------
  *
