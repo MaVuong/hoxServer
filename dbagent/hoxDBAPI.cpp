@@ -20,7 +20,7 @@
  * Constants
  * ------------------------------------------------------------------------- */
 
-#define DB_NAME  "../database/hoxserver.db"
+#define DB_NAME  "/home/lekhacson/database/hoxserver.db"
 
 
 /* ------------------------------------------------------------------------- *
