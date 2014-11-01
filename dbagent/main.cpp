@@ -36,8 +36,9 @@
  * Server configuration parameters
  */
 
+
 /* Listening IP/port */
-#define DBAGENT_DEFAULT_IP   "0.0.0.0"
+#define DBAGENT_DEFAULT_IP "0.0.0.0"
 #define DBAGENT_DEFAULT_PORT 7000
 
 /* Log files */

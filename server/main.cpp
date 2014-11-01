@@ -78,8 +78,8 @@
 #define ACCLOG_FLUSH_INTERVAL 2 /* 30 */
 
 /* DBAgent host and port */
-#define DBAGENT_DEFAULT_IP    "127.0.0.1"
-#define DBAGENT_DEFAULT_PORT  8001
+#define DBAGENT_DEFAULT_IP "0.0.0.0"
+#define DBAGENT_DEFAULT_PORT 7000
 
 /******************************************************************
  * Global data

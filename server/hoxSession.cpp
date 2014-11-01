@@ -898,7 +898,7 @@ hoxPollingSession::build_http_response( const std::string& sResponseContent,
     std::ostringstream outStream;
     outStream << "HTTP/1.1 200 OK" << "\r\n"
               << "Date: " << hoxUtil::getHttpDate() << "\r\n"
-              << "Server: games.playxiangqi.com v1.0" << "\r\n"
+              << "Server: chess.stormvn.com v1.0" << "\r\n"
               << "Content-Length: " << sResponseContent.size() << "\r\n"
               << "Content-Type: " << sContentType << "; charset=UTF-8" << "\r\n"
               //<< "Connection: close" << "\r\n"
