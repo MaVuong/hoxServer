@@ -79,8 +79,7 @@ kill_app
 
 # Run the app.
 echo "Starting a new instance of [$APP]..."
-#LD_LIBRARY_PATH=../lib ./$APP -l logs/ -b 0.0.0.0:8001 -p 1 -t 10:12
-./$APP -l logs/ -b 0.0.0.0:8001 -p 1 -t 10:12
+./$APP -l logs/ -b 127.0.0.1:8001 -p 1 -t 10:12
 
 ############# END OF FILE #####################################################
 
