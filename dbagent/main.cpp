@@ -38,8 +38,8 @@
 
 
 /* Listening IP/port */
-#define DBAGENT_DEFAULT_IP "0.0.0.0"
-#define DBAGENT_DEFAULT_PORT 7000
+#define DBAGENT_DEFAULT_IP "127.0.0.1"
+#define DBAGENT_DEFAULT_PORT 8001
 
 /* Log files */
 #define PID_FILE    "pid"
